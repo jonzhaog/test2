@@ -1,0 +1,22 @@
+Australia http://local.google.com/?ie=UTF8&ll=-37.845681,144.970865&spn=0.025552,0.071926&t=k&z=15
+Malaysia http://local.google.com/?ie=UTF8&ll=2.760684,101.737154&spn=0.01616,0.035963&t=k&z=16
+China http://local.google.com/?ie=UTF8&ll=31.340479,121.218209&spn=0.013818,0.035963&t=h&z=16
+Bahrain http://local.google.com/?ie=UTF8&ll=26.031952,50.515029&spn=0.014538,0.035963&t=k&z=16
+Spain http://local.google.com/?ie=UTF8&ll=41.56985,2.258613&spn=0.012104,0.035963&t=k&z=16
+Monaco http://local.google.com/?ie=UTF8&ll=43.737678,7.42296&spn=0.01169,0.035963&t=k&z=16
+Turkey http://local.google.com/?ie=UTF8&ll=40.957539,29.413791&spn=0.024437,0.071926&t=k&z=15
+England http://local.google.com/?ie=UTF8&ll=52.07183,-1.015291&spn=0.01989,0.071926&t=k&z=15
+Germany http://local.google.com/?ie=UTF8&ll=50.331245,6.942415&spn=0.020656,0.071926&t=k&z=15
+Hungary http://local.google.com/maps?ie=UTF8&ll=47.58301,19.250987&spn=0.010913,0.035963&t=h&z=16
+Europe http://local.google.com/maps?ie=UTF8&ll=39.458281,-0.332315&spn=0.012492,0.035963&t=k&z=16
+Belgium http://local.google.com/?ie=UTF8&ll=50.43627,5.97034&spn=0.02061,0.071926&t=h&z=15
+Italy http://local.google.com/?ie=UTF8&ll=45.622172,9.284177&spn=0.022631,0.071926&t=k&z=15
+Singapore http://local.google.com/?ie=UTF8&ll=1.292029,103.856528&spn=0.016175,0.035963&t=k&z=16
+Japan http://local.google.com/?ie=UTF8&ll=34.846071,136.534438&spn=0.013278,0.035963&t=k&z=16  
+Brazil http://local.google.com/?ie=UTF8&ll=-23.701417,-46.700327&spn=0.014814,0.035963&t=k&z=16
+Abu Dhabi
+
+Canada http://local.google.com/?ie=UTF8&ll=45.505505,-73.529177&spn=0.022678,0.071926&t=h&z=15
+France http://local.google.com/maps?ie=UTF8&ll=46.863844,3.16623&spn=0.011062,0.027809&t=k&z=16
+Japan FUJI http://local.google.com/?ie=UTF8&ll=35.370225,138.928213&spn=0.013193,0.035963&t=k&z=16
+USA http://local.google.com/?ie=UTF8&ll=39.794804,-86.236582&spn=0.024862,0.071926&t=k&z=15
